@@ -1,5 +1,7 @@
 # Pinta-NET C#
 
+Install [Gtk#-2.12.45](https://xamarin.azureedge.net/GTKforWindows/Windows/gtk-sharp-2.12.44.msi)
+
 ![Capture d’écran 2020-11-22 213349](https://user-images.githubusercontent.com/23019561/99919243-85ad6680-2d1c-11eb-8fc5-fac34a061bd7.png)
 
 
